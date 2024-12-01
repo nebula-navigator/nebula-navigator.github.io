@@ -1,5 +1,5 @@
 ---
-title: "Observational Properties of Star Clusters Hosting Intermediate-Mass Black Hole"
+title: "(Upcoming) Observational Properties of Star Clusters Hosting Intermediate-Mass Black Hole"
 collection: publications
 category: manuscripts
 permalink: 
