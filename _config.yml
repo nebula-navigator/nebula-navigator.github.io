@@ -21,12 +21,12 @@ repository               : "nebula-navigator/nebula-navigator.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Sohaib Ali"
   pronouns         : "He/Him"  
   bio              : "An Astrophysicist"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Torun, Poland"
+  employer         : "Nicolaus Copernicus University"
   uri              : # URL
   email            : "sohaibalee99@outlook.com" 
 
