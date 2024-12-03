@@ -35,26 +35,27 @@ Devinney code.
 </div>
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">VRI Photometry for Individual Nights</h2>
-<div class="page-content" style="display: flex; flex-wrap: wrap; justify-content: space-between; margin: 20px; gap: 20px;">
-    <!-- Left side figure (Row 1) -->
+<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
+    <!-- First Row of Figures -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (0).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Caption for Figure 0</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
-    <!-- Right side figure (Row 1) -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (1).png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Caption for Figure 1</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
-    <!-- Left side figure (Row 2) -->
+</div>
+
+<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
+    <!-- Second Row of Figures -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (2).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Caption for Figure 2</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
-    <!-- Right side figure (Row 2) -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (3).png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Caption for Figure 3</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
 
