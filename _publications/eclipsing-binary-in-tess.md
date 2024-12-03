@@ -38,7 +38,7 @@ Devinney code.
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <h2>VRI Photometry for Individual Nights</h2>
+        <h3>VRI Photometry for Individual Nights</h3>
         <img src="/images/Figure 2024-12-03 125547 (2).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
