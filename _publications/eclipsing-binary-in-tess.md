@@ -1,10 +1,10 @@
 ---
-title: "(Upcoming) New eclipsing binary in TESS and ATLAS FOV"
+title: "New eclipsing binary in TESS and ATLAS FOV"
 collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'Presenting a new set of orbital parameters of the candidate using transit data from Tarleton Observatory, crossmatched with TESS light curves for the target.'
-date: 2024-12-29
+date: In-prep
 venue: 
 slidesurl: 
 paperurl: 
