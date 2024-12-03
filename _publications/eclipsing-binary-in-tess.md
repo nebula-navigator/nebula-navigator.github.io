@@ -31,17 +31,16 @@ Devinney code.
     </figure>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
-    <figure style="text-align: center;">
-        <h2>Individual Nights VRI Photometry</h2>
+<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
+    <!-- Left side figure -->
+    <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (0).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton</figcaption>
     </figure>
-</div>
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
-    <figure style="text-align: center;">
-        <img src="/images/Figure 2024-12-03 125547 (1).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+    <!-- Right side figure -->
+    <figure style="text-align: center; flex: 1; max-width: 48%;">
+        <img src="/images/Figure 2024-12-03 125547 (1).png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Another lightcurve or figure</figcaption>
     </figure>
 </div>
 
