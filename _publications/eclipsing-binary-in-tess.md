@@ -18,3 +18,11 @@ primary is a A9 sub-giant. The system is located in the IAU constellation of Mon
 a new set of orbital parameters of the candidate using transit data from Tarleton Observatory, crossmatched
 with TESS light curves for the target. The light curve modeling was done using Wilson-
 Devinney code.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <figure style="text-align: center;">
+        <img src="tarletonlc" alt="Phase-folded lightcurve from Tarleton Observations" style="max-width: 48%;"/>
+        <figcaption>Phase-folded lightcurve from Tarleton Observations</figcaption>
+    </figure>
+    
+</div>
