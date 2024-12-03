@@ -19,10 +19,10 @@ a new set of orbital parameters of the candidate using transit data from Tarleto
 with TESS light curves for the target. The light curve modeling was done using Wilson-
 Devinney code.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px;">
     <figure style="text-align: center;">
-        <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton " style="max-width: 48%;"/>
-        <figcaption>Phase-folded lightcurve from Tarleton Observations</figcaption>
+        <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton" style="max-width: 80%; height: auto;"/>
+        <figcaption style="margin-top: 10px;">Phase-folded lightcurve from Tarleton Observations</figcaption>
     </figure>
-    
 </div>
+
