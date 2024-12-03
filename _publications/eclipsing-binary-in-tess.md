@@ -31,8 +31,19 @@ Devinney code.
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton Observations</figcaption>
     </figure>
 </div>
-
-
+  <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Individual Nights VRI Photometry</figcaption>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+    <figure style="text-align: center;">
+        <img src="/images/Figure 2024-12-03 125547 (0).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+    </figure>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+    <figure style="text-align: center;">
+        <img src="/images/Figure 2024-12-03 125547 (1).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+    </figure>
+</div>
 
 
 
