@@ -23,12 +23,12 @@ Devinney code.
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; margin-right: 10px;">
         <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton Observations</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">TESS lightcurve for our target</figcaption>
     </figure>
     <!-- Right side figure -->
     <figure style="text-align: center; flex: 1; margin-left: 10px;">
-        <img src="/images/another-image.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Another lightcurve or figure</figcaption>
+        <img src="/images/tarletonlc" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton Observations</figcaption>
     </figure>
 </div>
 
