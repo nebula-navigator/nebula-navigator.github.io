@@ -21,7 +21,7 @@ Devinney code.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <figure style="text-align: center;">
-        <img src="tarletonlc" alt="Phase-folded lightcurve from Tarleton Observations" style="max-width: 48%;"/>
+        <img src="../images/tesslc.png" alt="Phase-folded lightcurve from Tarleton Observations" style="max-width: 48%;"/>
         <figcaption>Phase-folded lightcurve from Tarleton Observations</figcaption>
     </figure>
     
