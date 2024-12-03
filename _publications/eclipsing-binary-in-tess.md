@@ -31,18 +31,6 @@ Devinney code.
     </figure>
 </div>
 
-<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
-    <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/Figure 2024-12-03 125547 (0).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton</figcaption>
-    </figure>
-    <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/Figure 2024-12-03 125547 (1).png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Another lightcurve or figure</figcaption>
-    </figure>
-</div>
 
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
     <!-- Left side figure -->
