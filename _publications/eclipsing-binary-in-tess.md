@@ -18,22 +18,22 @@ primary is a A9 sub-giant. The system is located in the IAU constellation of Mon
 a new set of orbital parameters of the candidate using transit data from Tarleton Observatory, crossmatched
 with TESS light curves for the target. The light curve modeling was done using Wilson-
 Devinney code.
-
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
-    <figure style="text-align: center;">
-        <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">TESS lightcurve for the target binary</figcaption>
-    </figure>
-</div>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
     <figure style="text-align: center;">
         <img src="/images/tarletonlc" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton Observations</figcaption>
     </figure>
 </div>
-  <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Individual Nights VRI Photometry</figcaption>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
     <figure style="text-align: center;">
+        <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">TESS lightcurve for the target binary</figcaption>
+    </figure>
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+    <figure style="text-align: center;">
+        <h2>Individual Nights VRI Photometry</h2>
         <img src="/images/Figure 2024-12-03 125547 (0).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
