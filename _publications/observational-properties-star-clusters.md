@@ -64,3 +64,13 @@ MOCCA-BH-Forge is an automated python-based automated pipeline developed to anal
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
+
+<div class="sidebar">
+  <!-- Existing content -->
+
+  <div class="sidebar__plots">
+    <h3>Visualizations</h3>
+    <!-- Example for static image plot -->
+    <img src="/images/bhdist.png" alt="Plot description">
+  </div>
+</div>
