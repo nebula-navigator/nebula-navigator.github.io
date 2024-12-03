@@ -1,5 +1,5 @@
 ---
-title: "New eclipsing binary in TESS and ATLAS FOV"
+title: "New eclipsing binary in TESS and ATLAS FOV (in-prep)"
 collection: publications
 category: manuscripts
 permalink: 
