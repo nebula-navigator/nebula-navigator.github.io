@@ -67,6 +67,23 @@
     z-index: 10;
   }
 
+.sidebar__plots {
+  margin: 1em 0;
+  text-align: center;
+
+  h3 {
+    font-size: $type-size-5;
+    margin-bottom: 0.5em;
+  }
+
+  img, iframe {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+  }
+  }
+
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
@@ -256,5 +273,6 @@
     &:hover {
       text-decoration: underline;
     }
+   
   }
 }
