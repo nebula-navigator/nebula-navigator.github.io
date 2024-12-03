@@ -62,7 +62,7 @@ Devinney code.
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
-
+<!-- Third Row -->
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
@@ -75,7 +75,7 @@ Devinney code.
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
-
+<!-- Fourth Row -->
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
