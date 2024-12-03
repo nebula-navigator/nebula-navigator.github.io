@@ -34,7 +34,7 @@ Devinney code.
     </figure>
 </div>
 
-<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 20px;">VRI Photometry for Individual Nights</h2>
+<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">VRI Photometry for Individual Nights</h2>
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
