@@ -19,18 +19,19 @@ a new set of orbital parameters of the candidate using transit data from Tarleto
 with TESS light curves for the target. The light curve modeling was done using Wilson-
 Devinney code.
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 20px;">
-    <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; margin-right: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+    <figure style="text-align: center;">
         <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">TESS lightcurve for our target</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">TESS lightcurve for the target binary</figcaption>
     </figure>
-    <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; margin-left: 10px;">
-        <img src="/images/tarletonlc" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+    <figure style="text-align: center;">
+        <img src="/images/tarletonlc" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton Observations</figcaption>
     </figure>
 </div>
+
 
 
 
