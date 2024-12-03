@@ -1,5 +1,5 @@
 ---
-title: "(Upcoming) Growth of Intermediate-Mass Black Hole Seeds in Dense Star Clusters"
+title: "Growth of Intermediate-Mass Black Hole Seeds in Dense Star Clusters (in-prep)"
 collection: publications
 category: manuscripts
 permalink: 
@@ -23,21 +23,6 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 --- -->
 
-We analyzed simulation results from dense and massive globular cluster models simulated using
-MOCCA code. The goal was to create detailed histories of IMBH seed growth in clusters of varying
-metalicities, initial binary fraction, half mass radius and Initial Mass Function (IMF). Each cluster
-was simulated to Hubble Time. A series of python based automated scripts were developed to
-analyze how IMBH seed was growing in simulations where IMBH formed through runaway
-collisions of stars. The scripts were later assembled into MOCCA-BH-Forge (MOCCA-Blackhole-
-Forge). MOCCA-BH-Forge is an open-source simulation data visualization pipeline, designed to
-work with MOCCA output snapshots and history files. Currently, it can analyze and visualize events
-leading to IMBH growth in simulated massive star clusters. It is also capable of creating data
-subsets like gravitational wave candidates from MOCCA output interaction history files. Detailed
-analysis of IMBH growth history was conducted using history files in MOCCA-BH-Forge. We
-found 2756 mergers with main-sequence stars out of which 2635 were direct collisions. 182
-mergers were found involving evolved stars, 1523 involving white dwarfs, 137 involving neutron
-stars and 486 mergers involving stellar mass black holes. These collisions between MS stars,
-evolved stars, compact objects and IMBH are likely to lead to tidal disruption events. We also found
-hundreds of gravitational wave candidates with gravitational waves corresponding to the LISA
-detection range. These candidates were extracted from MOCCA-Survey Database I (Askar et al.
-2017) using MOCCA-BH-Forge.
+Intermediate-mass black holes (IMBHs) are the elusive missing link between stellar-mass black holes and supermassive black holes. The interplay between gravitational dynamics and stellar evolution can lead to IMBH formation and growth of dense stellar environments, such as globular clusters. We analyzed simulation results from dense and massive globular cluster models simulated using MOCCA code in order to create detailed histories of IMBH growth in star clusters of varying initial central density, half-mass radius, binary fraction, mass, metallicty and initial mass function. A series of python based automated scripts were developed to analyze how IMBH seed was growing in simulations where IMBH formed through runaway collisions of stars and mergers with other black holes. The scripts were later assembled into MOCCA-BH-Forge (MOCCA-Blackhole-Forge). MOCCA-BH-Forge is an open-source simulation data visualization pipeline, designed to work with MOCCA output snapshots and history files. 
+
+Our research finds that in globular clusters with initial densities of the order 10^7 M_sun/pc^3 leads to the formation of an IMBH seed of ~1000 - 5000 M_sun through runaway collisions within few to tens of Myr. During the first Gyr of cluster evolution the IMBH grows by merging with other stellar mass black holes and by tidally disrupting stars.  At late times it also mergers with other compact objects. These mergers between IMBH-compact objects emit low-frequency gravitational waves which will be observed with space-based detectors like LISA. Tidal disruption events are relevant for future transient sky surveys. At 12 Gyr the IMBH grows to …. Msun
