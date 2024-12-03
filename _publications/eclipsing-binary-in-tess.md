@@ -18,16 +18,27 @@ primary is a A9 sub-giant. The system is located in the IAU constellation of Mon
 a new set of orbital parameters of the candidate using transit data from Tarleton Observatory, crossmatched
 with TESS light curves for the target. The light curve modeling was done using Wilson-
 Devinney code.
+
+<style>
+    h2 {
+        text-align: center; /* Aligns the title at the center */
+        font-size: 1.5em;    /* Increases the font size */
+        font-weight: bold;   /* Makes the title bold */
+        margin-bottom: 15px; /* Adds some space below the title */
+    }
+</style>
+
 <div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
     <figure style="text-align: center;">
+         <h2>VRI Photometry for Individual Nights</h2>
         <img src="/images/tarletonlc" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton Observations</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
     <figure style="text-align: center;">
         <img src="/images/tesslc.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">TESS lightcurve for the target binary</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
 
@@ -36,12 +47,12 @@ Devinney code.
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (2).png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Phase-folded lightcurve from Tarleton</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
     <!-- Right side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/Figure 2024-12-03 125547 (3).png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Another lightcurve or figure</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
 
