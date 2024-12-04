@@ -7,13 +7,12 @@
   @include clearfix;
   margin-top: 2em;
   padding-left: 0.5em;
-  padding-right: 0.5em;
+  // padding-right: 0.5em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    // max-width: $x-large;
-    width : 100%;
+    max-width: $x-large;
   }
 }
 
@@ -132,7 +131,7 @@
 
     .wrapper {
       padding-left: 1em;
-      padding-right: 1em;
+      // padding-right: 1em;
 
       @include breakpoint($x-large) {
         max-width: $x-large;
