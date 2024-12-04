@@ -24,7 +24,7 @@ For site content, there is one markdown file for each type of content, which are
 <!-- First Row -->
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 20px;">
     <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
+    <figure style="text-align: center; flex: 1; max-width: 100%;">
         <img src="./images/newplot.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
