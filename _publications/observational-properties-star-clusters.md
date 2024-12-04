@@ -67,11 +67,7 @@ The following figures show various stellar distributions in the cluster at taken
     </figure>
 </div>
 
-<div class="sidebar">
-  <!-- Existing content -->
 
-  <div class="sidebar__plots">
-    <h3>Visualizations</h3>
     <!-- Example for static image plot -->
     <img src="/images/bhdist.png" alt="Plot description">
   </div>
