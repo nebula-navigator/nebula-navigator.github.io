@@ -19,15 +19,15 @@ The following figures show various stellar distributions in the cluster at taken
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">Various Stellar Distributions at 12 Gyr</h2>
 <!-- First Row -->
-<div class="page-content" style="display: flex; justify-content: space-between; margin: 10px; gap: 5px;">
+<div class="page-content" style="display: flex; justify-content: space-between; margin: 5px; gap: 5px;">
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 80%;">
-        <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1000px; height: auto;"/>
+        <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
     <!-- Right side figure -->
     <figure style="text-align: center; flex: 1; max-width: 80%;">
-        <img src="/images/esdist.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 1000px; height: auto;"/>
+        <img src="/images/esdist.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
