@@ -35,12 +35,12 @@ The following figures show various stellar distributions in the cluster at taken
 <!-- Second Row -->
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
     <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
+    <figure style="text-align: center; flex: 1; max-width: 80%;">
         <img src="/images/wddist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
     <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
+    <figure style="text-align: center; flex: 1; max-width: 80%;">
         <img src="/images/nsdist.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
