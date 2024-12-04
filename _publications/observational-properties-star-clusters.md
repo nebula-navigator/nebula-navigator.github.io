@@ -21,12 +21,12 @@ The following figures show various stellar distributions in the cluster at taken
 <!-- First Row -->
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 10px; gap: 5px;">
     <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
+    <figure style="text-align: center; flex: 1; max-width: 80%;">
         <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1000px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
     <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
+    <figure style="text-align: center; flex: 1; max-width: 80%;">
         <img src="/images/esdist.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 1000px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
@@ -67,8 +67,3 @@ The following figures show various stellar distributions in the cluster at taken
     </figure>
 </div>
 
-
-    <!-- Example for static image plot -->
-    <img src="/images/bhdist.png" alt="Plot description">
-  </div>
-</div>
