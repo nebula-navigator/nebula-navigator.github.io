@@ -32,7 +32,7 @@ Our research finds that in globular clusters with initial densities of the order
 
 
 
-<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">Various Stellar Distributions at 12 Gyr</h2>
+<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">Merger Events Leading to IMBH Growth in model-1-z0001</h2>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <figure style="text-align: center; flex: 1; max-width: 100%;">
         <img src="/images/Figure1.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1800px; height: auto;"/>
