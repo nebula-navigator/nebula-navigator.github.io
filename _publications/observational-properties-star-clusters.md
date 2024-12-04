@@ -64,7 +64,7 @@ At 12 Gyr, we can see only a single stellar mass black hole remains in the syste
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">HR Diagram of Stellar Distributions at 12 Gyr</h2>
 
-An HR diagram of stellar distribution in the cluster from one of our models. MOCCA is capable of determining color indices, luminosities and radii of each stellar type. Here the temperature is calculated using pyasl.BallesterosBV_T() described in Ballesteros 2012 (EPL 97, 34008) which presents a conversion between color magnitude differences (B-V) and effective temperature based on a black body spectrum and the filter functions. 
+An HR diagram of stellar distribution in the cluster from one of our models. MOCCA is capable of determining color indices, luminosities and radii of each stellar type. Here the temperature is calculated using pyasl.BallesterosBV_T() described in Ballesteros 2012 (EPL 97, 34008) which presents a conversion between color magnitude differences (B-V) and effective temperature based on a black body spectrum and filter functions. 
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <figure style="text-align: center;">
         <img src="/images/hr.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
