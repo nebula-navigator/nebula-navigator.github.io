@@ -33,51 +33,27 @@ Our research finds that in globular clusters with initial densities of the order
 
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">Various Stellar Distributions at 12 Gyr</h2>
-<!-- First Row -->
-<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
-    <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
-    </figure>
-    <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/esdist.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <figure style="text-align: center; flex: 1; max-width: 100%;">
+        <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
-
-<!-- Second Row -->
-<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
-    <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/wddist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
-    </figure>
-    <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/nsdist.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
-    </figure>
-</div>
-<!-- Third Row -->
-<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 5px;">
-    <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/bhdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
-    </figure>
-    <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="/images/bhdist100myr.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
-    </figure>
-</div>
-
-<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">HR Diagram of Stellar Distributions at 12 Gyr</h2>
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <figure style="text-align: center;">
-        <img src="/images/hr.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
+        <img src="/images/esdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+    </figure>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <figure style="text-align: center;">
+        <img src="/images/wddist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1800px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+    </figure>
+</div>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+    <figure style="text-align: center;">
+        <img src="/images/nsdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1800px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
