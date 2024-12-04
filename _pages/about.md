@@ -24,7 +24,7 @@ For site content, there is one markdown file for each type of content, which are
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
         <img src="/images/newplot.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">[View Interactive Plot] (/images/scatter_plot.html)</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
     <!-- Right side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
@@ -32,4 +32,4 @@ For site content, there is one markdown file for each type of content, which are
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
-
+[View Interactive Plot] (/images/scatter_plot.html)
