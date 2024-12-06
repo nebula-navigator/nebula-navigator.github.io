@@ -39,5 +39,5 @@ Created from simulated massive star clusters such as this:
 
 <!-- Interactive Plot -->
 <div style="margin-top: 20px; text-align: center;">
-    <iframe src="./images/scatter_plot.html" style="width: 100%; height: 600px; border: none;"></iframe>
+    <iframe src="./images/scatter_plot.html" style="width: 100%; height: 1200px; border: none;"></iframe>
 </div>
