@@ -34,8 +34,10 @@ For site content, there is one markdown file for each type of content, which are
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
+<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
+    Created from simulated massive star clusters such as this:
+</h2>
 
-Created from simulated massive star clusters such as this:
 
 <!-- Interactive Plot -->
 <div style="margin-top: 20px; text-align: center;">
