@@ -41,5 +41,6 @@ For site content, there is one markdown file for each type of content, which are
 
 <!-- Interactive Plot -->
 <div style="margin-top: 20px; text-align: center;">
-    <iframe src="./images/scatter_plot.html" style="width: 100%; height: 1200px; border: none;"></iframe>
+    <iframe src="./images/scatter_plot.html" style="width: 120%; max-width: 1600px; height: 600px; border: none;"></iframe>
 </div>
+
