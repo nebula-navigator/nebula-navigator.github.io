@@ -30,13 +30,13 @@ For site content, there is one markdown file for each type of content, which are
     </figure>
     <!-- Right side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="./images/090_277_444.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 800px; height: auto;"/>
+        <img src="./images/090_277_444.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 1200px; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
-<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    Created from simulated massive star clusters such as this:
-</h2>
+
+Created from simulated massive star clusters such as this:
+
 <!-- Interactive Plot -->
 <div style="margin-top: 20px; text-align: center;">
     <iframe src="./images/scatter_plot.html" style="width: 100%; height: 600px; border: none;"></iframe>
