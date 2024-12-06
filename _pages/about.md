@@ -38,10 +38,11 @@ For site content, there is one markdown file for each type of content, which are
     Created from simulated massive star clusters such as this:
 </h2>
 
-The plot is interactive so feel free to dive into the center and see the IMBH in a binary with a low-mass main sequence star. The snapshot was taken after 12 billion years of evolution.
+The plot is interactive so feel free to dive into the center and see the IMBH in a binary with a low-mass main sequence star. The snapshot was taken after 12 billion years of evolution. Check out more in [publications](./publications/observational-properties-star-clusters.md)
+,where you can find my in-prep publications.
 
 <!-- Interactive Plot -->
 <div style="margin-top: 20px; text-align: center;">
-    <iframe src="./images/scatter_plot.html" style="width: 120%; max-width: 1800px; height: 1000px; border: none;"></iframe>
+    <iframe src="./images/scatter_plot.html" style="width: 120%; max-width: 1800px; height: 800px; border: none;"></iframe>
 </div>
 
