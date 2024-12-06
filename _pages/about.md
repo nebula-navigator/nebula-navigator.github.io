@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in developing new techniques and refining the current ones to analyze observational data from space
+I am interested in developing new techniques to analyze observational data from space
 as well as ground based telescopes in order to maximize the yield of information from data based on our current
 technological capabilities. With interests spanning exoplanet characterization, binary stars, black holes in globular
 clusters, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational
@@ -34,6 +34,9 @@ For site content, there is one markdown file for each type of content, which are
         <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
     </figure>
 </div>
+<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
+    Created from simulated massive star clusters such as this:
+</h2>
 <!-- Interactive Plot -->
 <div style="margin-top: 20px; text-align: center;">
     <iframe src="./images/scatter_plot.html" style="width: 100%; height: 600px; border: none;"></iframe>
