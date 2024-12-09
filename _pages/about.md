@@ -19,7 +19,7 @@ Create content & metadata
 ------
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    Check out my latest work on creating mock JWST Images from MOCCA simulated massive star cluster models
+    Check out my latest work on creating mock JWST Images 
 </h2>
 <!-- First Row -->
 <div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 20px;">
@@ -45,7 +45,7 @@ The plot is interactive so feel free to dive into the center and see the IMBH in
 <div style="margin-top: 20px; text-align: center;">
   <figure style="display: inline-block; text-align: center;">
     <iframe src="./images/scatter_plot.html" style="width: 120%; max-width: 1800px; height: 800px; border: none;"></iframe>
-    <figcaption style="margin-top: 10px; font-size: 1.2em; color: #555;">Projected stellar distribution of a massive globular cluster (Z~0.0005,IMF= 0.08 Msun to 150 Msun, N=2000k, bf=10%, rh = 0.5, rh = 2.5 pc, Rgc= 5 kpc)</figcaption>
+    <figcaption style="margin-top: 10px; font-size: 1.2em; color: #555;">                    Projected stellar distribution of a massive globular cluster (Z~0.0005,IMF= 0.08 Msun to 150 Msun, N=2000k, bf=10%, rh = 0.5, rh = 2.5 pc, Rgc= 5 kpc)</figcaption>
   </figure>
 </div>
 
