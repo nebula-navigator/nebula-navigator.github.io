@@ -17,11 +17,12 @@ The following figures show various stellar distributions in the cluster at taken
 
 
 
+
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">Various Stellar Distributions at 12 Gyr</h2>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <figure style="text-align: center; flex: 1; max-width: 100%;">
-        <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 1800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+        <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 2200px; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Distribution of Main-Sequence Stars (Projected)</figcaption>
     </figure>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
