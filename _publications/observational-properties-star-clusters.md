@@ -22,7 +22,7 @@ The following figures show various stellar distributions in the cluster at taken
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <figure style="text-align: center; flex: 1; max-width: 100%;">
         <img src="/images/msdist.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 2200px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;">Distribution of Main-Sequence Stars (Projected)</figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.1em;">      Distribution of Main-Sequence Stars (Projected)</figcaption>
     </figure>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
