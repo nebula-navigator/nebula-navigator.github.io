@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 I am interested in developing new techniques to analyze observational data from space
-as well as ground based telescopes in order to maximize the yield of information from data based on our current
-technological capabilities. With interests spanning exoplanet characterization, binary stars, black holes in globular
-clusters, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational
+as well as ground based telescopes in order to maximize the yield of information from data. With interests spanning exoplanet characterization, binary stars, black holes in globular clusters, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational
 boundaries. As observational data grows, my goal is to leverage advanced techniques, including machine learning
 and AI, to enhance data interpretation in these fields.I am particularly inspired by the potential of JWST’s high-resolution capabilities to
 characterize Earth-like planets, and I look forward to contributing to this frontier research.
@@ -26,7 +24,7 @@ For site content, there is one markdown file for each type of content, which are
     <!-- Left side figure -->
     <figure style="text-align: center; flex: 1; max-width: 100%;">
         <img src="./images/Figure_2.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
+        <figcaption style="margin-top: 10px; font-size: 1.2em;">                                     Color composites generated from MOCCA binary maps integrated with JWST NIRCam wide filters F090W, F150W, F277W and F444W</figcaption>
     </figure>
     <!-- Right side figure -->
     <figure style="text-align: center; flex: 1; max-width: 48%;">
