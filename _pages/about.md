@@ -38,6 +38,17 @@ For site content, there is one markdown file for each type of content, which are
     </figcaption>
 </div>
 
+<!-- Second Figure -->
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/potm2404a.jpg" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+            As a reference, this is NGC 6440, a globular cluster that resides roughly 28000 light-years from Earth in the constellation Sagittarius. The object was first 
+            discovered by William Herschel in May of 1786.(Credits: NASA/ESA/CSA Webb)
+        </figcaption>
+    </figure>
+</div>
+
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
     Created from simulated massive star clusters such as this:
 </h2>
