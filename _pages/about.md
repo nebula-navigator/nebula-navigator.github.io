@@ -33,7 +33,7 @@ For site content, there is one markdown file for each type of content, which are
         </figure>
     </div>
     <!-- Single caption for both figures -->
-    <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+    <figcaption style="margin-top: 5px; font-size: 1.2em; text-align: center; color: #555;">
         Color composites generated from MOCCA binary maps integrated with JWST NIRCam wide filters F090W, F150W, F277W, and F444W. The cluster's distance is set to 5kpc
     </figcaption>
 </div>
