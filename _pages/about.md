@@ -20,18 +20,24 @@ For site content, there is one markdown file for each type of content, which are
     Check out my latest work on creating mock JWST Images 
 </h2>
 <!-- First Row -->
-<div class="page-content" style="display: flex; justify-content: space-between; margin: 20px; gap: 20px;">
-    <!-- Left side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 100%;">
-        <img src="./images/Figure_2.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.2em;">                                     Color composites generated from MOCCA binary maps integrated with JWST NIRCam wide filters F090W, F150W, F277W and F444W</figcaption>
-    </figure>
-    <!-- Right side figure -->
-    <figure style="text-align: center; flex: 1; max-width: 48%;">
-        <img src="./images/090_277_444.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 1200px; height: auto;"/>
-        <figcaption style="margin-top: 10px; font-size: 1.1em; font-weight: bold;"></figcaption>
-    </figure>
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin: 20px; gap: 20px;">
+    <!-- Row of figures -->
+    <div style="display: flex; justify-content: space-between; gap: 20px; width: 100%;">
+        <!-- Left side figure -->
+        <figure style="text-align: center; flex: 1; max-width: 100%;">
+            <img src="./images/Figure_2.png" alt="Phase-folded lightcurve from Tarleton" style="width: 100%; max-width: 800px; height: auto;"/>
+        </figure>
+        <!-- Right side figure -->
+        <figure style="text-align: center; flex: 1; max-width: 48%;">
+            <img src="./images/090_277_444.png" alt="Another lightcurve or figure" style="width: 100%; max-width: 1200px; height: auto;"/>
+        </figure>
+    </div>
+    <!-- Single caption for both figures -->
+    <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+        Color composites generated from MOCCA binary maps integrated with JWST NIRCam wide filters F090W, F150W, F277W, and F444W. The cluster's distance is set to 5kpc
+    </figcaption>
 </div>
+
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
     Created from simulated massive star clusters such as this:
 </h2>
