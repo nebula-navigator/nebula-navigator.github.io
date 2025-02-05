@@ -60,7 +60,29 @@ The plot is interactive so feel free to dive into the center and see the IMBH in
 <div style="margin-top: 20px; text-align: center;">
   <figure style="display: inline-block; text-align: center;">
     <iframe src="./images/scatter_plot.html" style="width: 120%; max-width: 1800px; height: 800px; border: none;"></iframe>
-    <figcaption style="margin-top: 10px; font-size: 1.2em; color: #555;">                    Projected stellar distribution of a massive globular cluster (Z~0.0005,IMF= 0.08 Msun to 150 Msun, N=2000k, bf=10%, rh = 0.5, rh = 2.5 pc, Rgc= 5 kpc)</figcaption>
+    <figcaption style="margin-top: 10px; font-size: 1.2em; color: #555;">                    Projected stellar distribution of a massive globular cluster (Z~0.0005,IMF= 0.08 Msun to 150 Msun, N=2000k, bf=10%, rh = 0.5, Rgc= 5 kpc)</figcaption>
   </figure>
 </div>
 
+<h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
+    Additionally, I am counducting my master's research on Exoplanet Atmospheric retreivals using Taurex3. Below is one example for a retrieval I performed for WASP 107-b. 
+</h2>
+<!-- Second Figure -->
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/Retrieval-WASP107b.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+            Observed Vs Model Transmission Spectrum of WASP 107b with H2O and CH4 absorption bands. WASP-107 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 30.5 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.055 AU from its star. Its discovery was announced in 2017.
+        </figcaption>
+    </figure>
+</div>
+
+<!-- Second Figure -->
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/PosteriorDist-WASP107b" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+            Posterior Probability Distributions of Retrievals
+        </figcaption>
+    </figure>
+</div>
