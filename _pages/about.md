@@ -65,7 +65,7 @@ The plot is interactive so feel free to dive into the center and see the IMBH in
 </div>
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    Additionally, I am counducting my master's research on Exoplanet Atmospheric retreivals using Taurex3. Below is one example for a retrieval I performed for WASP 107-b. 
+    Additionally, I am conducting my master's research on Exoplanet Atmospheric retreivals using Taurex3. Below is one example for a retrieval I performed for WASP 107-b. 
 </h2>
 <!-- Second Figure -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
