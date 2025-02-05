@@ -65,7 +65,7 @@ The plot is interactive so feel free to dive into the center and see the IMBH in
 </div>
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    Additionally, I am conducting my master's research on Exoplanet Atmospheric retreivals using Taurex3. Below is one example for a retrieval I performed for WASP 107-b. 
+    Additionally, I am conducting my master's research on Exoplanet Atmospheric Retrievals using Taurex3 (A. F. Al-Refaie et al 2021). Below is one example for a retrieval I performed for WASP 107-b. 
 </h2>
 <!-- Second Figure -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
@@ -82,7 +82,7 @@ The plot is interactive so feel free to dive into the center and see the IMBH in
     <figure style="text-align: center; max-width: 800px; width: 100%;">
         <img src="./images/PosteriorDist-WASP107b" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
-            Posterior Probability Distributions of Retrievals
+                                       Posterior Probability Distributions of Retrievals
         </figcaption>
     </figure>
 </div>
