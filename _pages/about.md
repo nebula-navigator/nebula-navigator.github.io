@@ -80,7 +80,7 @@ The plot is interactive so feel free to dive into the center and see the IMBH in
 <!-- Second Figure -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
     <figure style="text-align: center; max-width: 800px; width: 100%;">
-        <img src="./images/PosteriorDist-WASP107b" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <img src="./images/PosteriorDist-WASP107b.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
                                        Posterior Probability Distributions of Retrievals
         </figcaption>
