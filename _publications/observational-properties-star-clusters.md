@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'Distribution of Stars and Binaries IMBHs and Creating Mock Photometric Observations from Simulations'
-date: 01-01-2001
+date: 01-08-2025
 venue: 
 slidesurl: 
 paperurl: 
