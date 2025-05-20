@@ -41,7 +41,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-        <p>Published in <i>{{ post.venue }}</i>: to be published</p>
+        <p>Published <i>{{ post.venue }}</i>: to be published in <i>Astronomy and Astrophysics</i></p>
 
 
         {% elsif post.date %}
