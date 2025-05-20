@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'Presenting a new set of orbital parameters of the candidate using transit data from Tarleton Observatory, crossmatched with TESS light curves for the target.'
-date: 01-01-01
+date: 01-12-2025
 venue: 
-slidesurl: 
+note: "This publication is forthcoming and will be available soon."
 paperurl: 
 citation: 
 ---
