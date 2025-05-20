@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/Resume-SohaibAli.pdf" style="width: 100%; height: 800px;" frameborder="0"></iframe>
+<iframe src="/files/CV_SohaibAli (3).pdf" style="width: 100%; height: 800px;" frameborder="0"></iframe>
 
 <!-- Publications
 ======
