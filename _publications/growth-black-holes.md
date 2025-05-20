@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'Tidal Disruption Events, Eccentric Gravitational Wave Mergers, and Light Intermediate- Mass Ratio Inspirals'
-date: 2024-12-29
+date: 2025-06-30
 venue: 
 slidesurl: 
 paperurl: 
