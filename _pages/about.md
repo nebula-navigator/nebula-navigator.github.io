@@ -14,7 +14,7 @@ and AI, to enhance data interpretation in these fields.I am particularly inspire
 characterize Earth-like planets, and I look forward to contributing to this frontier research.
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    I am conducting my master's research on Exoplanet Atmospheric Retrievals using Taurex3 (A. F. Al-Refaie et al 2021). Below is one example for a retrieval I performed for WASP 107-b. 
+    I am conducting my master's research on Exoplanet Atmospheric Retrievals of WASP-107b using Taurex3 (A. F. Al-Refaie et al 2021). This is a work in progress. Here I present some preliminary models fits with posterior distributions for two of our latest runs. The first run was performed on NIRCam spectrum only while the second run is from the combined NIR+MIR spectra spanning 2.4 to 13.7 microns. 
 </h2>
 <!-- Second Figure -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
