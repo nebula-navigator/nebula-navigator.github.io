@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 I am interested in developing new techniques to analyze observational data from space
-as well as ground based telescopes in order to maximize the yield of information from data. With interests spanning exoplanet characterization, binary stars, black holes in globular clusters, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational
+as well as ground based telescopes in order to maximize the yield of information from data. With interests spanning exoplanet atmospheres, planetary systems, star-planet interactions, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational
 boundaries. As observational data grows, my goal is to leverage advanced techniques, including machine learning
-and AI, to enhance data interpretation in these fields.I am particularly inspired by the potential of JWST’s high-resolution capabilities to
+and AI, to enhance data analysis. I am particularly inspired by the potential of JWST’s high-resolution capabilities to
 characterize Earth-like planets, and I look forward to contributing to this frontier research.
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
