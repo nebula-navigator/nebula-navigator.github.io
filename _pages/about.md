@@ -19,14 +19,39 @@ characterize Earth-like planets, and I look forward to contributing to this fron
 <!-- Second Figure -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
     <figure style="text-align: center; max-width: 800px; width: 100%;">
-        <img src="./images/Retrieval-WASP107b.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <img src="./images/Screenshot from 2025-05-30 11-00-11.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
-            Observed Vs Model Transmission Spectrum of WASP 107b with H2O and CH4 absorption bands. WASP-107 b is a Neptune-like exoplanet that orbits a K-type star. Its mass is 30.5 Earths, it takes 5.7 days to complete one orbit of its star, and is 0.055 AU from its star. Its discovery was announced in 2017.
+            Best fit model from NIR+MIR spectra together with retrieved gases. It can be seen that the current chemistry profile and prior configuration fails to capture muted species e.g. SO2
+        </figcaption>
+    </figure>
+</div>
+<!-- Second Figure -->
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/prior_bounds_table_3e-1.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+            Priors used for our latest runs compared to the priors from CHIMERA and AURORA models from Welbanks et al. 2024
+        </figcaption>
+    </figure>
+</div>
+<!-- Second Figure -->
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/corner_NIR_(iteration1).png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+            Posterior distributions of selected retrievals from NIR spectrum
         </figcaption>
     </figure>
 </div>
 
-
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/corner_NIRplusMIR_(iteration4).png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+            Posterior distributions of selected retrievals from NIR+MIR spectrum
+        </figcaption>
+    </figure>
+</div>
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
     Check out my latest work on creating mock JWST Images 
