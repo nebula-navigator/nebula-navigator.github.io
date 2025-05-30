@@ -39,7 +39,7 @@ characterize Earth-like planets, and I look forward to contributing to this fron
     <figure style="text-align: center; max-width: 800px; width: 100%;">
         <img src="./images/corner_NIR_(iteration1).png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
-            Posterior distributions of selected retrievals from NIR spectrum
+            Posterior distributions of selected retrievals from NIR spectrum (best-fit)
         </figcaption>
     </figure>
 </div>
@@ -48,7 +48,7 @@ characterize Earth-like planets, and I look forward to contributing to this fron
     <figure style="text-align: center; max-width: 800px; width: 100%;">
         <img src="./images/corner_NIRplusMIR_(iteration4).png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
-            Posterior distributions of selected retrievals from NIR+MIR spectrum
+            Posterior distributions of selected retrievals from NIR+MIR spectrum (best-fit)
         </figcaption>
     </figure>
 </div>
