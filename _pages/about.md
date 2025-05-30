@@ -21,7 +21,7 @@ characterize Earth-like planets, and I look forward to contributing to this fron
     <figure style="text-align: center; max-width: 800px; width: 100%;">
         <img src="./images/Screenshot from 2025-05-30 11-00-11.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
         <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
-            Best fit model from NIR+MIR spectra together with retrieved gases. It can be seen that the current chemistry profile and prior configuration fails to capture muted species e.g. SO2
+            Best fit model from NIR+MIR spectra together with retrieved gases. The spectrum has been clipped to 5 microns for emphasis on selective species in NIR spectrum. It can be seen that the current chemistry profile and prior configuration fails to capture muted species e.g. SO2
         </figcaption>
     </figure>
 </div>
