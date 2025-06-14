@@ -10,8 +10,7 @@ redirect_from:
 I am interested in developing new techniques to analyze observational data from space
 as well as ground based telescopes in order to maximize the yield of information from data. With interests spanning exoplanet atmospheres, planetary systems, star-planet interactions, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational
 boundaries. As observational data grows, my goal is to leverage advanced techniques, including machine learning
-and AI, to enhance data analysis. I am particularly inspired by the potential of JWST’s high-resolution capabilities to
-characterize Earth-like planets, and I look forward to contributing to this frontier research.
+and AI, to enhance data analysis. 
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
     I am conducting my master's research on Exoplanet Atmospheric Retrievals of WASP-107b using Taurex3 (A. F. Al-Refaie et al 2021). This is a work in progress. Here I present some preliminary models fits with posterior distributions for two of our latest runs. The first run was performed on NIRCam spectrum only while the second run is from the combined NIR+MIR spectra spanning 2.4 to 13.7 microns. 
