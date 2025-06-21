@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-With interests spanning stars, exoplanet atmospheres, black holes in globular clusters and data-driven astronomy, my goal is to leverage advanced techniques, including machine learning and AI in astrophysical data processing to understand how fundamental physics behaves in extreme astrophysical environments.
+I am interested in developing new techniques to analyze observational data from space as well as ground based telescopes in order to maximize the yield of information from data. With interests spanning exoplanet atmospheres, planetary systems, star-planet interactions, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observationalAdd commentMore actions boundaries. As observational data grows, my goal is to leverage advanced techniques, including machine learning and AI, to enhance data analysis. 
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
     I am conducting my master's research on Exoplanet Atmospheric Retrievals of WASP-107b using Taurex3 (A. F. Al-Refaie et al 2021). This is a work in progress. Here I present some preliminary models fits with posterior distributions for two of our latest runs. The first run was performed on NIRCam spectrum only while the second run is from the combined NIR+MIR spectra spanning 2.4 to 13.7 microns. 
