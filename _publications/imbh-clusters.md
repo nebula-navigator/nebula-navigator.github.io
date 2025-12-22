@@ -7,7 +7,7 @@ excerpt: 'Tidal Disruption Events, Eccentric Gravitational Wave Mergers, and Lig
 date: 2025-10-04
 venue: 
 slidesurl: 
-paperurl: 
+paperurl: https://arxiv.org/abs/2510.03766
 citation: 
 ---
 
@@ -24,7 +24,6 @@ of 10^3–10^4 M⊙ can form within ≲ 5 Myr through the runaway collision chan
 continue to grow through mergers with black holes, stars, and compact remnants, providing predictions
 testable with future gravitational-wave and transient surveys.
 
-**Keywords:** stars: black holes – galaxy: globular clusters: general – methods: numerical – stars: kinematics
-and dynamics – gravitational waves
+
 
 
