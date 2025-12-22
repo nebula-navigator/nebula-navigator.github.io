@@ -1,23 +1,25 @@
 ---
-title: " Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations"
+title: "Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations"
 collection: publications
 category: conference proceedings
 permalink: https://arxiv.org/abs/2510.03766
-excerpt: 
-date: 04-10-2025
-venue: 
-slidesurl: 
+excerpt: ""
+date: 2025-10-04
+venue: ""
+slidesurl: ""
 paperurl: https://arxiv.org/abs/2510.03766
-citation: @misc{askar2025formationgrowthintermediatemassblack,
-      title={Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations}, 
-      author={Abbas Askar and Marcelo C. Vergara and Sohaib Ali},
-      year={2025},
-      eprint={2510.03766},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.GA},
-      url={https://arxiv.org/abs/2510.03766}, 
-}
+citation: |
+  @misc{askar2025formationgrowthintermediatemassblack,
+    title={Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations},
+    author={Askar, Abbas and Vergara, Marcelo C. and Ali, Sohaib},
+    year={2025},
+    eprint={2510.03766},
+    archivePrefix={arXiv},
+    primaryClass={astro-ph.GA},
+    url={https://arxiv.org/abs/2510.03766}
+  }
 ---
+
 
 Dense star clusters are promising nurseries for the formation and growth of intermediate-mass
 black holes (IMBHs; ∼ 10^2–10^5 M⊙), with increasing observational evidence pointing to their presence in
