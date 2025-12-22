@@ -2,7 +2,7 @@
 title: "Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations"
 collection: publications
 category: conference proceedings
-permalink: https://arxiv.org/abs/2510.03766
+permalink: /publications/
 excerpt:
 date: 2025-10-04
 venue: 
