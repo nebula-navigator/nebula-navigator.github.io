@@ -6,16 +6,7 @@ excerpt: "Stellar-mass binary black holes (sBBHs) formed in globular clusters re
 date: 2025-12-15
 venue: —
 paperurl: https://arxiv.org/abs/2512.13151
-citation: |
-  @misc{zhao2025multiband,
-    title={Multiband gravitational wave observations of eccentric escaping binary black holes from globular clusters},
-    author={Yuetong Zhao and Abbas Askar and Youjun Lu and Zhoujian Cao and Mirek Giersz and Grzegorz Wiktorowicz and Arkadiusz Hypki and Lucas Hellstrom and Sohaib Ali and Wei-Tou Ni},
-    year={2025},
-    eprint={2512.13151},
-    archivePrefix={arXiv},
-    primaryClass={astro-ph.HE},
-    url={https://arxiv.org/abs/2512.13151},
-  }
+citation:
 ---
 **Abstract:**
 
