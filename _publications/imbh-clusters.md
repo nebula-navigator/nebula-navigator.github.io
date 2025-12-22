@@ -3,10 +3,10 @@ title: "Formation and Growth of IMBHs in Dense Star Clusters: Lessons from N-bod
 collection: publications
 category: manuscripts
 permalink: 
-journal: Proceedings of IAU Symposium 398 and MODEST-25: "Compact Objects and Binaries in Dense Stellar Systems" (Seoul, South Korea, June 2025)
+journal: "Proceedings of IAU Symposium 398 and MODEST-25: "Compact Objects and Binaries in Dense Stellar Systems""
 excerpt: 'Tidal Disruption Events, Eccentric Gravitational Wave Mergers, and Light Intermediate- Mass Ratio Inspirals'
 date: 2025-10-04
-venue: 
+venue: Seoul, South Korea, June 2025
 slidesurl: 
 paperurl: https://arxiv.org/abs/2510.03766
 citation: 
