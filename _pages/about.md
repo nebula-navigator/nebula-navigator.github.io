@@ -7,10 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in developing new techniques to analyze observational data from space as well as ground based telescopes in order to maximize the yield of information from data. With interests spanning exoplanet atmospheres, planetary systems, star-planet interactions, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational boundaries. As observational data grows, my goal is to leverage advanced techniques, including machine learning and AI, to enhance data analysis. 
+I am interested in exoplanet atmospheres, planetary systems, star-planet interactions, and fundamental questions like the <b>search for life beyond Earth</b>, I aim to develop tools that push observational boundaries. As observational data grows, my goal is to leverage advanced techniques, including machine learning and AI, to enhance data analysis. 
+
+Currently working on exoplanet atmospheres in the context of ARIEL mission. The aim is to develop a public grid of high-resolution forward models computed with TauREx3 and convolved/binned to ARIEL’s AIRS and FGS channels, and use the grid to produce molecular detectability maps for common species (H2O, CO, CO2, CH4) across a range of stellar temperatures, planet radii and metallicities. Models are created on a native high-resolution wavelength grid, convolved with Gaussian LSFs representative of ARIEL AIRS/FGS resolving power, and resampled to channel centers. Instrument noise and photon limits are applied to produce realistic simulated observations (see figure below). For each grid point we compute the expected signal-to-noise and the minimum mixing ratio detectable at 3σ using simplified retrieval/likelihood metrics. Results provide an idea about which spectral regions and channel combinations drive detection for different classes of exoplanets such as warm Neptunes and sub-Neptunes and provide a searchable lookup table for ARIEL observation planning and retrieval validation. All spectra, binned products, metadata and detectability maps will be released to the community as NPZ/CSV files and example notebooks to aid reproducibility.
+
+<!-- Second Figure -->
+<div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
+    <figure style="text-align: center; max-width: 800px; width: 100%;">
+        <img src="./images/model.png" alt="Additional Plot or Visualization" style="width: 100%; height: auto;"/>
+        <figcaption style="margin-top: 10px; font-size: 1.2em; text-align: center; color: #555;">
+           One of the model spectra generated using TauRex3 for a randomized set stellar and planetary bulk parameters. The models were generated using a constant set of prior molecular abundances for each model. 
+        </figcaption>
+    </figure>
+</div>
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    I am conducting my master's research on Exoplanet Atmospheric Retrievals of WASP-107b using Taurex3 (A. F. Al-Refaie et al 2021). This is a work in progress. Here I present some preliminary models fits with posterior distributions for two of our latest runs. The first run was performed on NIRCam spectrum only while the second run is from the combined NIR+MIR spectra spanning 2.4 to 13.7 microns. 
+    My master's research focused on Exoplanet Atmospheric Retrievals of WASP-107b using Taurex3 (A. F. Al-Refaie et al 2021). This is a work in progress. Here I present some preliminary models fits with posterior distributions for two of our latest runs. The first run was performed on NIRCam spectrum only while the second run is from the combined NIR+MIR spectra spanning 2.4 to 13.7 microns. 
 </h2>
 <!-- Second Figure -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin-top: 40px;">
@@ -50,7 +62,7 @@ I am interested in developing new techniques to analyze observational data from 
 </div>
 
 <h2 style="text-align: center; font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">
-    Check out my latest work on creating mock JWST Images 
+    Check out my previous work on creating mock JWST Images 
 </h2>
 <!-- First Row -->
 <div class="page-content" style="display: flex; flex-direction: column; align-items: center; margin: 20px; gap: 20px;">
