@@ -3,21 +3,12 @@ title: "Formation and growth of intermediate-mass black holes in dense star clus
 collection: publications
 category: conference proceedings
 permalink: https://arxiv.org/abs/2510.03766
-excerpt: ""
+excerpt:
 date: 2025-10-04
-venue: ""
-slidesurl: ""
+venue: 
+slidesurl: 
 paperurl: https://arxiv.org/abs/2510.03766
-citation: |
-  @misc{askar2025formationgrowthintermediatemassblack,
-    title={Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations},
-    author={Askar, Abbas and Vergara, Marcelo C. and Ali, Sohaib},
-    year={2025},
-    eprint={2510.03766},
-    archivePrefix={arXiv},
-    primaryClass={astro-ph.GA},
-    url={https://arxiv.org/abs/2510.03766}
-  }
+
 ---
 
 
