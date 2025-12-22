@@ -1,16 +1,17 @@
 ---
-title: "Formation and growth of intermediate-mass black holes in dense star clusters: Lessons from N-body and MOCCA Monte Carlo Simulations"
+title: "Formation and Growth of IMBHs in Dense Star Clusters: Lessons from N-body and MOCCA Monte Carlo Simulations"
 collection: publications
-category: conference proceedings
-permalink: /publications/
-excerpt:
+category: manuscripts
+permalink: 
+excerpt: 'Tidal Disruption Events, Eccentric Gravitational Wave Mergers, and Light Intermediate- Mass Ratio Inspirals'
 date: 2025-10-04
 venue: 
 slidesurl: 
-paperurl: https://arxiv.org/abs/2510.03766
-
+paperurl: 
+citation: 
 ---
 
+**Abstract:**
 
 Dense star clusters are promising nurseries for the formation and growth of intermediate-mass
 black holes (IMBHs; ∼ 10^2–10^5 M⊙), with increasing observational evidence pointing to their presence in
@@ -22,7 +23,8 @@ black hole. We use direct N-body and Monte Carlo simulations of clusters with in
 of 10^3–10^4 M⊙ can form within ≲ 5 Myr through the runaway collision channel. At later times, the IMBHs
 continue to grow through mergers with black holes, stars, and compact remnants, providing predictions
 testable with future gravitational-wave and transient surveys.
-Keywords. stars: black holes – galaxy: globular clusters: general – methods: numerical – stars: kinematics
+
+**Keywords:** stars: black holes – galaxy: globular clusters: general – methods: numerical – stars: kinematics
 and dynamics – gravitational waves
 
 
